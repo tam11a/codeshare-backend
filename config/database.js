@@ -9,4 +9,4 @@ mongoose
     console.log("DB Connected Successfully");
   });
 
-export default mongoose;
+module.exports = mongoose;
